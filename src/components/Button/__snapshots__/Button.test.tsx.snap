@@ -1,0 +1,167 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Button should render button with icon only 1`] = `
+<div>
+  <button
+    class="sc-gsDKAQ inline-flex justify-between items-center border font-medium rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 border-transparent text-structural-0 bg-primary-600 hover:bg-primary-700 focus:ring-primary-500 px-4 py-2 text-sm false"
+    data-testid="button"
+  >
+    <div
+      class="flex"
+    />
+    <div
+      class="flex"
+    />
+    <div
+      class="flex"
+    />
+  </button>
+</div>
+`;
+
+exports[`components/Button should render button with leading icon 1`] = `
+<div>
+  <button
+    class="sc-gsDKAQ inline-flex justify-between items-center border font-medium rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 border-transparent text-structural-0 bg-primary-600 hover:bg-primary-700 focus:ring-primary-500 px-4 py-2 text-sm false"
+    data-testid="button"
+  >
+    <div
+      class="flex"
+    />
+    <div
+      class="flex"
+    >
+      Click me
+    </div>
+    <div
+      class="flex"
+    />
+  </button>
+</div>
+`;
+
+exports[`components/Button should render button with trailing icon 1`] = `
+<div>
+  <button
+    class="sc-gsDKAQ inline-flex justify-between items-center border font-medium rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 border-transparent text-structural-0 bg-primary-600 hover:bg-primary-700 focus:ring-primary-500 px-4 py-2 text-sm false"
+    data-testid="button"
+  >
+    <div
+      class="flex"
+    />
+    <div
+      class="flex"
+    >
+      Click me
+    </div>
+    <div
+      class="flex"
+    />
+  </button>
+</div>
+`;
+
+exports[`components/Button should render default button 1`] = `
+<div>
+  <button
+    class="sc-gsDKAQ inline-flex justify-between items-center border font-medium rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 border-transparent text-structural-0 bg-primary-600 hover:bg-primary-700 focus:ring-primary-500 px-4 py-2 text-sm false"
+    data-testid="button"
+  >
+    <div
+      class="flex"
+    />
+    <div
+      class="flex"
+    >
+      Click me
+    </div>
+    <div
+      class="flex"
+    />
+  </button>
+</div>
+`;
+
+exports[`components/Button should render destructive button 1`] = `
+<div>
+  <button
+    class="sc-gsDKAQ inline-flex justify-between items-center border font-medium rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 border-transparent text-structural-0 bg-primary-600 hover:bg-primary-700 focus:ring-primary-500 px-4 py-2 text-sm false"
+    data-testid="button"
+  >
+    <div
+      class="flex"
+    />
+    <div
+      class="flex"
+    >
+      Click me
+    </div>
+    <div
+      class="flex"
+    />
+  </button>
+</div>
+`;
+
+exports[`components/Button should render primary button 1`] = `
+<div>
+  <button
+    class="sc-gsDKAQ inline-flex justify-between items-center border font-medium rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 border-transparent text-structural-0 bg-primary-600 hover:bg-primary-700 focus:ring-primary-500 px-4 py-2 text-sm false"
+    data-testid="button"
+  >
+    <div
+      class="flex"
+    />
+    <div
+      class="flex"
+    >
+      Click me
+    </div>
+    <div
+      class="flex"
+    />
+  </button>
+</div>
+`;
+
+exports[`components/Button should render secondary button 1`] = `
+<div>
+  <button
+    class="sc-gsDKAQ inline-flex justify-between items-center border font-medium rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 border-transparent text-structural-0 bg-primary-600 hover:bg-primary-700 focus:ring-primary-500 px-4 py-2 text-sm false"
+    data-testid="button"
+  >
+    <div
+      class="flex"
+    />
+    <div
+      class="flex"
+    >
+      Click me
+    </div>
+    <div
+      class="flex"
+    />
+  </button>
+</div>
+`;
+
+exports[`components/Button should render tertiary button 1`] = `
+<div>
+  <button
+    class="sc-gsDKAQ inline-flex justify-between items-center border font-medium rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 border-transparent text-structural-0 bg-primary-600 hover:bg-primary-700 focus:ring-primary-500 px-4 py-2 text-sm false"
+    data-testid="button"
+  >
+    <div
+      class="flex"
+    />
+    <div
+      class="flex"
+    >
+      Click me
+    </div>
+    <div
+      class="flex"
+    />
+  </button>
+</div>
+`;
